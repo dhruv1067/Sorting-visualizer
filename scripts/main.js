@@ -68,7 +68,7 @@ function runalgo()
         break;
         case "Merge": Merge();
         break;
-        case "Quick": Queue();
+        case "Quick": Quick();
         break;
         case "Heap": Heap();
         break;
